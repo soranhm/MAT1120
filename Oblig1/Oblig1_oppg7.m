@@ -1,0 +1,1 @@
+A = randlinkmatrix(5)
